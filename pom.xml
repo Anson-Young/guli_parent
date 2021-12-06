@@ -9,6 +9,8 @@
         <module>guli_oss</module>
         <module>guli_eureka</module>
         <module>guli_frontendservice</module>
+        <module>guli_member</module>
+        <module>guli_statistics</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
